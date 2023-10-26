@@ -38,6 +38,10 @@ h1 {
     padding: 15px;
   }
 
+  #msg {
+    text-align: center;
+  }
+
   footer {
     background-color:black;
     color: white;
